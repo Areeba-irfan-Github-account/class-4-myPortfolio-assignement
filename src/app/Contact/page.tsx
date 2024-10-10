@@ -40,12 +40,12 @@ const Contact = () => {
                                 <div className="animate-fade-in-up hover:transform hover:scale-105 transition-all duration-300" style={{animationDelay: '1s'}}>
                                     <div className="text-4xl mb-2 text-blue-300">📧</div>
                                     <p className="font-semibold text-blue-200">Email</p>
-                                    <p className="text-blue-100">areeba.irfan@example.com</p>
+                                    <p className="text-blue-100">m.ali9851kk@gmail.com</p>
                                 </div>
                                 <div className="animate-fade-in-up hover:transform hover:scale-105 transition-all duration-300" style={{animationDelay: '1.2s'}}>
                                     <div className="text-4xl mb-2 text-blue-300">💼</div>
                                     <p className="font-semibold text-blue-200">LinkedIn</p>
-                                    <a href="https://www.linkedin.com/in/areeba-irfan" target="_blank" rel="noopener noreferrer" className="text-blue-100 hover:text-blue-300 transition-colors duration-300">linkedin.com/in/areeba-irfan</a>
+                                    <a href="https://linkedin.com/in/areebairfan" target="_blank" rel="noopener noreferrer" className="text-blue-100 hover:text-blue-300 transition-colors duration-300">linkedin.com/in/areeba-irfan</a>
                                 </div>
                                 <div className="animate-fade-in-up hover:transform hover:scale-105 transition-all duration-300" style={{animationDelay: '1.4s'}}>
                                     <div className="text-4xl mb-2 text-blue-300">🐦</div>
